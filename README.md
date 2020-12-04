@@ -1,13 +1,9 @@
 
 # Hi there 👋
 
-<div align="center">
-<img hight="400" width="400" alt="GIF" align="center" src="https://github.com/VolkerGate/VolkerGate/blob/master/assets/password_gachi.gif">
-</div>
+<img hight="400" width="400" alt="GIF" align="right" src="https://github.com/VolkerGate/VolkerGate/blob/master/assets/password_gachi.gif">
 
 ### I'm 17 old years GameDev Enthusiast
-
-</br>
 
 ### 🔭 I'm currently working on:
   - NeonBite Game Engine
