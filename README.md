@@ -1,24 +1,32 @@
-### Hi there 👋
-I'm 17 old years GameDev Enthusiast
 
-🔭 I'm currently working on:
+# Hi there 👋
+
+<div align="center">
+<img hight="200" width="200" alt="GIF" align="center" src="https://github.com/VolkerGate/VolkerGate/blob/master/assets/password_gachi.gif">
+</div>
+
+### I'm 17 old years GameDev Enthusiast
+
+</br>
+
+### 🔭 I'm currently working on:
   - NeonBite Game Engine
   - TownGame Engine
   - TownGame World Map Engine
     
-🚀 I use daily:
+### 🚀 I use daily:
   - C/C++
   - Node.JS
   - Lua
   - ~~Python~~
   
 
-🌱 I'm currently learning:
+### 🌱 I'm currently learning:
   - Real time computer graphics techniques
   - Real time physics techniques
   - OpenGL 4 and GLSL
 
-⚡ Fun fact: I really like writing engines
+### ⚡ Fun fact: I really like writing engines
 
 <!--
 **VolkerGate/VolkerGate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
