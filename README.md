@@ -3,7 +3,7 @@
 
 <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/VolkerGate/VolkerGate/blob/master/assets/password_gachi.gif">
 
-### I'm 17 old years GameDev Enthusiast
+### I'm 17 years old GameDev Enthusiast
 
 ### 🔭 I'm currently working on:
   - NeonBite Game Engine
